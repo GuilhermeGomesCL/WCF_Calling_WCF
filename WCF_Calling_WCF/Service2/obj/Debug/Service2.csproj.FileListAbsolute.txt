@@ -1,0 +1,6 @@
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\Service2\bin\Debug\Service2.dll.config
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\Service2\bin\Debug\Service2.dll
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\Service2\bin\Debug\Service2.pdb
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\Service2\obj\Debug\Service2.csprojResolveAssemblyReference.cache
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\Service2\obj\Debug\Service2.dll
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\Service2\obj\Debug\Service2.pdb

@@ -1,0 +1,12 @@
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\WCF_Calling_WCF.exe.config
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\WCF_Calling_WCF.exe
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\WCF_Calling_WCF.pdb
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\Service1.dll
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\Service2.dll
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\Service1.pdb
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\Service1.dll.config
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\Service2.pdb
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\bin\Debug\Service2.dll.config
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\obj\Debug\WCF_Calling_WCF.csprojResolveAssemblyReference.cache
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\obj\Debug\WCF_Calling_WCF.exe
+C:\Coollink\TestingCode\WCF_Calling_WCF\WCF_Calling_WCF\WCF_Calling_WCF\obj\Debug\WCF_Calling_WCF.pdb
